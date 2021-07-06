@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class QueydslApplication {
+public class QuerydslApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(QueydslApplication.class, args);
+        SpringApplication.run(QuerydslApplication.class, args);
     }
 
 }
